@@ -1,6 +1,6 @@
 # ResearchFlo
 
-![ResearchFLO](https://ibb.co/fy2pNU)
+![ResearchFLO](https://i.imgur.com/7Muim0F.png)
 
 
 " Open access refers to research outputs which are distributed online and free of cost or other barriers, and possibly with the addition of a Creative Commons license to promote reuse. "
