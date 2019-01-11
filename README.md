@@ -25,12 +25,12 @@ Detailed Steps for Installation:
 7. Run "pip install -r requirements.txt"
 8. If everything worked perfectly, run "python app.py".
 
-## Deployment
-
-#dd additional notes about how to deploy this on a live system
+## OpenCode19 Guidelines 
+Slack Channel for queires-researchflooc.slack.com
+Do not message directly for question. Always come through the project channel.
 
 ## Built With
-
+Python, Flask, Mlab, AWS
 
 ## Contributing
 
