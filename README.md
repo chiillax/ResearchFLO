@@ -27,7 +27,7 @@ Detailed Steps for Installation:
 
 ## OpenCode19 Guidelines 
 Slack Channel for queires-researchflooc.slack.com
-Do not message directly for question. Always come through the project channel.
+Do not message directly for questions. Always come through the project channel.
 
 ## Built With
 Python, Flask, Mlab, AWS
