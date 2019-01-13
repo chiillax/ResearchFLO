@@ -1,6 +1,6 @@
 Fabric
 Flask-SQLAlchemy
-Flask-WTF
+Flask-WTF>=0.13
 flask-mail
 flask-bootstrap
 flask-uploads
